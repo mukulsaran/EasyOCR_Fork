@@ -1,4 +1,4 @@
-FROM pytorch/pytorch
+FROM python:3.9-slim-buster
 
 # if you forked EasyOCR, you can pass in your own GitHub username to use your fork
 # i.e. gh_username=myname
